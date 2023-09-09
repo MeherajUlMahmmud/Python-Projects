@@ -1,6 +1,6 @@
 # Email Sender
 
-This repository contains a Python script for sending emails using the `smtplib` library, a part of the Python Standard Library, and the `email.message` module. This script provides a command-line interface to send emails easily.
+This Python script allows you to send emails using the `smtplib` library, a part of the Python Standard Library, and the `email.message` module. This script provides a command-line interface to send emails easily.
 
 ## Prerequisites
 
